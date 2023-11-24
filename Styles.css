@@ -1,0 +1,18 @@
+*{
+    background-color: aqua;
+}
+
+li{
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+}
+
+a{
+    color:black;
+
+}
+.titulo{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:grey;
+    font-size:xx-large;
+}
