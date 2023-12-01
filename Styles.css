@@ -9,10 +9,14 @@ li{
 
 a{
     color:black;
-
 }
-.titulo{
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    color:grey;
-    font-size:xx-large;
+.titulo {
+    font-family: sans-serif;
+    color: lightgreen;
+    font-size: 44px;
+    border: 10px;
+    background: tomato;
+    border-style: groove;
+    padding: 15px;
+    width: max-content;
 }
