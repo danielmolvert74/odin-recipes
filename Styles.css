@@ -64,8 +64,10 @@ ul {
     margin-left: 250px;
     margin-right: 250PX;
     background-blend-mode:color-burn;
-    
+    height: 150px;
 }
 p {
     text-align: justify;
+    overflow: scroll;
+    padding:10px;
 }
