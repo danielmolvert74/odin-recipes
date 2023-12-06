@@ -31,6 +31,7 @@ span{
     background-color: antiquewhite;
 }
 
+
 body{
     background-image: url(./images/fondo.png);
     text-align: center;
@@ -46,3 +47,20 @@ ul {
     margin-top: 40px;
   }
 
+.piedepagina{
+    margin-top: 200px;
+    color:yellow;
+    background-color: blue;
+}
+.historia {
+    margin:10px;
+    color:darkred;
+    background-color: white;
+    font-family:sans-serif;
+    font-size: 2em;
+    border-style: dashed;
+    margin-top:20px;
+    margin-left:150px;
+    margin-right:150px;
+    
+}
