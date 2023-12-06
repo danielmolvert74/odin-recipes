@@ -51,16 +51,21 @@ ul {
     margin-top: 200px;
     color:yellow;
     background-color: blue;
+    
 }
 .historia {
     margin:10px;
     color:darkred;
     background-color: white;
     font-family:sans-serif;
-    font-size: 2em;
+    font-size:1.5em;
     border-style: dashed;
     margin-top:20px;
-    margin-left:150px;
-    margin-right:150px;
+    margin-left: 250px;
+    margin-right: 250PX;
+    background-blend-mode:color-burn;
     
+}
+p {
+    text-align: justify;
 }
